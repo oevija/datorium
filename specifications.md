@@ -7,8 +7,8 @@ Risinājums palīdzēs skolēniem veiksmīgi pabeigt skolu. Nosaukums būs
 ## Tehniskās specifikācijas
 Izstrādē izmantosim sekojošās tehnoloģijas:
 - HTML/CSS
--JavaScript
--GitHub pages
+- JavaScript
+- GitHub pages
 
 ## Funkcionalitātes
 1. web aplikācijas ar autorizāciju
